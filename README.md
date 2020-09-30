@@ -16,24 +16,6 @@ This repository contains solutions to BIOS 624 assignments.
 
 Does something seem off? Make sure to [report it](https://github.com/luca-martial/bios624/issues).
 
-[![GitHub Issues][issues-shield]][issues-url]
-[![Forks][forks-shield]][forks-url]
-[![GitHub Stars][stars-shield]][stars-url]
-[![Contributors][contributors-shield]][contributors-url]
-
-
-# BIOS 624 Projects: Data Analysis & Report Writing
-
-This repository contains solutions to BIOS 624 assignments. 
-
-## Structure
-
-- **[a1](https://github.com/luca-martial/bios624/tree/master/a1)**: The goal of this project was to build a prediction model for death in participants of the Cardiovascular Health Study (a government sponsored cohort study of adults aged 65 years and older in four US communities).
-
-## Reporting Issues
-
-Does something seem off? Make sure to [report it](https://github.com/luca-martial/bios624/issues).
-
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/luca-martial/bios624/tree/master/LICENSE) for more information.
