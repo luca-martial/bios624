@@ -6,9 +6,9 @@ The goal of this project was to build a prediction model for death in participan
 
 1. Develop a predictive model for mortality.
 
-2.Is self rated health predictive of mortality beyond the predictive capabilities of the available data?
+2. Is self rated health predictive of mortality beyond the predictive capabilities of the available data?
 
-3.Comment on how useful some of the harder to obtain measurements (MRI, lab variables) are in predicting mortality relative to the other variables.
+3. Comment on how useful some of the harder to obtain measurements (MRI, lab variables) are in predicting mortality relative to the other variables.
 
 ## Contents
 
