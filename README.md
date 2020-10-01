@@ -1,7 +1,7 @@
-[![GitHub Issues][issues-shield]][issues-url]
-[![Forks][forks-shield]][forks-url]
-[![GitHub Stars][stars-shield]][stars-url]
-[![Contributors][contributors-shield]][contributors-url]
+<!--[![GitHub Issues][issues-shield]][issues-url] -->
+<!--[![Forks][forks-shield]][forks-url] -->
+<!--[![GitHub Stars][stars-shield]][stars-url] -->
+<!--[![Contributors][contributors-shield]][contributors-url] -->
 
 
 # BIOS 624 Projects: Data Analysis & Report Writing
