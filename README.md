@@ -14,4 +14,4 @@ The goal of this project was to build a prediction model for 5-year mortality in
 
 ## Contents
 
-- **[mri_dl.ipynb](https://github.com/luca-martial/bios624/tree/master/mri_dl.ipynb)**: notebook with code for results
+- **[mri_dl.ipynb](https://github.com/luca-martial/biostats-mortality/tree/master/mri_dl.ipynb)**: notebook with code for results
