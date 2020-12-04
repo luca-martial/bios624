@@ -1,6 +1,8 @@
-# BIOS 624 Project: Predicting Mortality w/ Deep Learning
+# Biostats Project: Predicting Mortality w/ Deep Learning
 
-The goal of this project was to build a prediction model for 5-year mortality in participants of the Cardiovascular Health Study (a government sponsored cohort study of adults aged 65 years and older in four US communities) using Deep Learning. Written report is available upon request.
+The goal of this project was to build a prediction model for 5-year mortality in participants of the Cardiovascular Health Study (a government sponsored cohort study of adults aged 65 years and older in four US communities) using Deep Learning. Written report is available upon request. This project was part of a graduate-level biostatistics course.
+
+**Challenge:** modelling using ~700 observations
 
 ## Questions Addressed
 
